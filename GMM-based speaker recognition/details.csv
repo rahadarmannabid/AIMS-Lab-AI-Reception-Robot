@@ -1,0 +1,4 @@
+id,dir,name,son_dau_name,time
+1,/home/shehan/Speaker_Recognition/GMM/dataset/train/pranto/pranto.wav,pranto,speaker_recog,30-06-2021
+2,/home/shehan/Speaker_Recognition/GMM/dataset/train/padam/padam.wav,padam,noren,30-06-20213
+3,/home/shehan/Speaker_Recognition/GMM/dataset/train/pranto/pranto.wav,pranto,spk,2021-06-30
